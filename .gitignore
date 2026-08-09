@@ -62,3 +62,8 @@ scratch/
 
 # IPython Notebook templates
 template.ipynb
+
+# Obsidian — личные настройки не коммитим, плагины и тема — общие
+ru-vault/.obsidian/workspace*
+ru-vault/.obsidian/cache
+ru-vault/.obsidian/plugins/*/data.json
